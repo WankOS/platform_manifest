@@ -4,7 +4,7 @@
   <project path="packages/apps/Settings" name="WankOS/packages_apps_Settings" revision="w7.1" />
   <project path="frameworks/base" name="WankOS/frameworks_base" revision="w7.1" />
   <project path="platform_manifest" name="WankOS/platform_manifest" revision="w7.1" />
-  <project path="vendor/slim" name="WankOS" revision="w7.1" />
+  <project path="vendor/slim" name="WankOS/vendor_slim" revision="w7.1" />
   <project path="frameworks/opt/slim" name="WankOS/frameworks_opt_slim" revision="w7.1" />
 
   <!-- Aosp Forks -->
